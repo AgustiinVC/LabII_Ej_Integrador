@@ -1,0 +1,40 @@
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.exe
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.deps.json
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.runtimeconfig.json
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.dll
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.pdb
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\Entidades.dll
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.FrmCalculadora.resources
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.dll
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\refint\MiCalculadora.dll
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.pdb
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Ejercicio Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\ref\MiCalculadora.dll
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.exe
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.deps.json
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.runtimeconfig.json
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.dll
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\MiCalculadora.pdb
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\Entidades.dll
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\bin\Debug\net6.0-windows\Entidades.pdb
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.FrmCalculadora.resources
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.GenerateResource.cache
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.AssemblyInfo.cs
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.csproj.CopyComplete
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.dll
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\refint\MiCalculadora.dll
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.pdb
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\MiCalculadora.genruntimeconfig.cache
+D:\Users\Agostin\Desktop\Facultad\2023\2Do Cuatri\Progra y Labo II\LabII_Ej_Integrador\Ejercicio Integrador\MiCalculadora\obj\Debug\net6.0-windows\ref\MiCalculadora.dll
