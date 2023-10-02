@@ -20,7 +20,20 @@ namespace MiCalculadora
         }
         private void FrmCalculadora_Load(object sender, EventArgs e)
         {
-            
+            StartPosition = FormStartPosition.CenterScreen;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            MinimizeBox = false;
+
+            txtPrimerOperador.TabIndex = 0;
+            cmbOperacion.TabIndex = 1;
+            txtSegundoOperador.TabIndex = 2;
+            btnOperar.TabIndex = 3;
+            btnLimpiar.TabIndex = 4;
+            btnCerrar.TabIndex = 5;
+            rdbDecimal.TabIndex = 6;
+            rdbBinario.TabIndex = 7;
+
         }
         private void FrmCalculadora_FormClosing(object sender, FormClosingEventArgs e)
         {
